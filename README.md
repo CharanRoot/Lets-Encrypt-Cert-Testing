@@ -12,3 +12,5 @@ https://cryptography.io/en/latest/
 
 Lets Encrypt use ACME protocol.
 https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment
+
+Drawback - you need update your cert for every two month. somewhat cumbersome for non technical people
